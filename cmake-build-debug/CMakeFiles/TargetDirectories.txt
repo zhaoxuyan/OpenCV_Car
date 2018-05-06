@@ -1,0 +1,3 @@
+/Users/zhaoxuyan/CLionProjects/openCV_Car/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhaoxuyan/CLionProjects/openCV_Car/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhaoxuyan/CLionProjects/openCV_Car/cmake-build-debug/CMakeFiles/openCV_Car.dir
