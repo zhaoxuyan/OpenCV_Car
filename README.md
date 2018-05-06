@@ -143,7 +143,7 @@ erode：腐蚀
 
 result：结果
 
-![image-20180506111441032](/var/folders/pz/8hdd81_959q73c1y_m3gpm6c0000gn/T/abnerworks.Typora/image-20180506111441032.png)
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1fr1h1zarvrj317w0ns4l2.jpg)
 
 - 总结
 
